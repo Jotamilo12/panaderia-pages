@@ -1,0 +1,8 @@
+body{margin:0;font-family:Georgia,serif;background:#fbf6ee;color:#3b2a1a}
+header{background:#a4501f;color:#fff;padding:48px 32px;text-align:center}
+h1{margin:0;font-size:44px}
+header p{margin:8px 0 0;font-size:20px;opacity:.9}
+main{padding:32px}
+.card{background:#fff;border-radius:16px;padding:24px;margin-bottom:20px;box-shadow:0 2px 8px #0001}
+.card h2{margin:0 0 8px;font-size:26px}
+button{background:#a4501f;color:#fff;border:0;border-radius:999px;padding:16px 28px;font-size:20px;width:100%}
